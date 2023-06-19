@@ -1,0 +1,7 @@
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\bin\Debug\aula09.exe.config
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\bin\Debug\aula09.exe
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\bin\Debug\aula09.pdb
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\obj\Debug\aula09.csproj.AssemblyReference.cache
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\obj\Debug\aula09.csproj.CoreCompileInputs.cache
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\obj\Debug\aula09.exe
+D:\Users\leonardo.ykonichi\source\repos\aula09\aula09\obj\Debug\aula09.pdb
